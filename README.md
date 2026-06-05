@@ -1,5 +1,5 @@
 # My Practical Folder
-This is where i practice after eaach lessons on.
+This is where i practice after each lessons on.
 github
 
 
